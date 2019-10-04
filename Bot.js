@@ -17,4 +17,4 @@ bot.on("message", async message => {
     }
 });
 
-bot.login("NjI5NjczMzcxNDk1NDMyMjEy.XZdLWw.K8bDk1ZwHVDxHmAiJgqNbiChcvE");
+bot.login("NjI5NjczMzcxNDk1NDMyMjEy.XZdLWw.K8bDk1ZwHVDxHmAiJgqNbiChcvE")
